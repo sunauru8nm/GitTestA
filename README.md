@@ -1,3 +1,4 @@
 ﻿# GitTestA
 Gitのテスト
 Hogehoge
+Fugafuga
