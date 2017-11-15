@@ -1,3 +1,3 @@
 ﻿# GitTestA
 Gitのテスト
-hogehoge
+Hogehoge
