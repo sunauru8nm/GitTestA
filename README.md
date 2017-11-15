@@ -1,2 +1,3 @@
-# GitTestA
+﻿# GitTestA
 Gitのテスト
+hogehoge
